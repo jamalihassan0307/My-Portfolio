@@ -118,14 +118,6 @@ npm run build
 firebase deploy
 ```
 
-## 👤 Author
-
-**Ali Hassan**
-
-- Website: [https://portfolio-alihassan.web.app](https://portfolio-alihassan.web.app)
-- LinkedIn: [@jamalihassan0307](https://www.linkedin.com/in/jamalihassan0307/)
-- GitHub: [@jamalihassan0307](https://github.com/jamalihassan0307)
-
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
