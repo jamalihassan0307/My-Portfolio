@@ -66,20 +66,6 @@ _User Login Interface_
 - React Icons
 - React Hot Toast
 
-## 🚀 Deployment
-
-1. Build the project
-
-```bash
-npm run build
-```
-
-2. Deploy to Firebase
-
-```bash
-firebase deploy
-```
-
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
