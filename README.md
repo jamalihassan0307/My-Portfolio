@@ -45,14 +45,6 @@ _Profile Edit Interface_
 ![Login](screenshots/login.png)
 _User Login Interface_
 
-### Responsive Design
-
-<div align="center">
-  <img src="./screenshots/mobile-1.png" alt="Mobile Home" width="300" style="margin-right: 20px"/>
-  <img src="./screenshots/mobile-2.png" alt="Mobile Projects" width="300"/>
-</div>
-*Mobile-Responsive Views*
-
 ## 🚀 Features
 
 - Responsive Design
@@ -131,8 +123,8 @@ firebase deploy
 **Ali Hassan**
 
 - Website: [https://portfolio-alihassan.web.app](https://portfolio-alihassan.web.app)
-- LinkedIn: [@your-linkedin](https://linkedin.com/in/your-linkedin)
-- GitHub: [@your-github](https://github.com/your-github)
+- LinkedIn: [@jamalihassan0307](https://www.linkedin.com/in/jamalihassan0307/)
+- GitHub: [@jamalihassan0307](https://github.com/jamalihassan0307)
 
 ## 🤝 Contributing
 
