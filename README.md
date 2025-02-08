@@ -10,31 +10,39 @@ Check out the live demo: [https://portfolio-alihassan.web.app](https://portfolio
 
 ### Home Page
 
-![Home Page](./screenshots/home-1.png)
+![Home Page](./screenshots/home1.png)
 _Hero Section with Profile Overview_
 
-![Home Skills](./screenshots/home-2.png)
-_Skills and Experience Section_
+![Home Skills](./screenshots/home2.png)
+_Skills and Technical Expertise Section_
 
 ### Projects Section
 
-![Projects Grid](./screenshots/projects-1.png)
+![Projects Grid](./screenshots/projectspage.png)
 _Projects Grid View_
 
-![Project Details](./screenshots/projects-2.png)
+![Project Details](./screenshots/projet_detail_page.png)
 _Project Details Modal_
+
+![Add Project](./screenshots/add_new_project.png)
+_Add New Project Interface_
+
+![Simple Projects](./screenshots/simple%20project%20page.png)
+_Projects Overview_
 
 ### Profile Dashboard
 
-![Profile View](./screenshots/profile-1.png)
+![Profile View](./screenshots/profile_page.png)
+![Profile View Extended](./screenshots/profile_page1.png)
 _User Profile Overview_
 
-![Profile Edit](./screenshots/profile-2.png)
+![Profile Edit](./screenshots/Profile_edit.png)
+![Profile Edit Extended](./screenshots/Profile_edit1.png)
 _Profile Edit Interface_
 
 ### Authentication
 
-![Login Modal](./screenshots/auth-1.png)
+![Login Modal](./screenshots/login.png)
 _User Login Interface_
 
 ### Responsive Design
