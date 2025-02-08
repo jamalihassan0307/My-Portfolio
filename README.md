@@ -66,44 +66,6 @@ _User Login Interface_
 - React Icons
 - React Hot Toast
 
-## 📝 Prerequisites
-
-Before you begin, ensure you have met the following requirements:
-
-- Node.js (v18.x or higher)
-- npm (v10.x or higher)
-
-## ⚙️ Installation
-
-1. Clone the repository
-
-```bash
-git clone https://github.com/your-username/your-portfolio.git
-```
-
-2. Install dependencies
-
-```bash
-npm install
-```
-
-3. Create a `.env` file in the root directory and add your Firebase configuration
-
-```env
-VITE_FIREBASE_API_KEY=your-api-key
-VITE_FIREBASE_AUTH_DOMAIN=your-auth-domain
-VITE_FIREBASE_PROJECT_ID=your-project-id
-VITE_FIREBASE_STORAGE_BUCKET=your-storage-bucket
-VITE_FIREBASE_MESSAGING_SENDER_ID=your-messaging-sender-id
-VITE_FIREBASE_APP_ID=your-app-id
-```
-
-4. Start the development server
-
-```bash
-npm run dev
-```
-
 ## 🚀 Deployment
 
 1. Build the project
