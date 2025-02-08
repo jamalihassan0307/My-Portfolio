@@ -10,39 +10,39 @@ Check out the live demo: [https://portfolio-alihassan.web.app](https://portfolio
 
 ### Home Page
 
-![Home Page](./screenshots/home1.png)
+![Home Hero Section](screenshots/home1.png)
 _Hero Section with Profile Overview_
 
-![Home Skills](./screenshots/home2.png)
+![Skills Section](screenshots/home2.png)
 _Skills and Technical Expertise Section_
 
 ### Projects Section
 
-![Projects Grid](./screenshots/projectspage.png)
+![Projects Grid](screenshots/projectspage.png)
 _Projects Grid View_
 
-![Project Details](./screenshots/projet_detail_page.png)
+![Project Details](screenshots/projet_detail_page.png)
 _Project Details Modal_
 
-![Add Project](./screenshots/add_new_project.png)
+![Add New Project](screenshots/add_new_project.png)
 _Add New Project Interface_
 
-![Simple Projects](./screenshots/simple%20project%20page.png)
+![Projects Overview](screenshots/simple%20project%20page.png)
 _Projects Overview_
 
 ### Profile Dashboard
 
-![Profile View](./screenshots/profile_page.png)
-![Profile View Extended](./screenshots/profile_page1.png)
+![Profile View](screenshots/profile_page.png)
+![Extended Profile](screenshots/profile_page1.png)
 _User Profile Overview_
 
-![Profile Edit](./screenshots/Profile_edit.png)
-![Profile Edit Extended](./screenshots/Profile_edit1.png)
+![Profile Edit](screenshots/Profile_edit.png)
+![Extended Profile Edit](screenshots/Profile_edit1.png)
 _Profile Edit Interface_
 
 ### Authentication
 
-![Login Modal](./screenshots/login.png)
+![Login](screenshots/login.png)
 _User Login Interface_
 
 ### Responsive Design
