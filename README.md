@@ -6,6 +6,45 @@ A modern, responsive portfolio website built with React and Firebase.
 
 Check out the live demo: [https://portfolio-alihassan.web.app](https://portfolio-alihassan.web.app)
 
+## 📸 Screenshots
+
+### Home Page
+
+![Home Page](./screenshots/home-1.png)
+_Hero Section with Profile Overview_
+
+![Home Skills](./screenshots/home-2.png)
+_Skills and Experience Section_
+
+### Projects Section
+
+![Projects Grid](./screenshots/projects-1.png)
+_Projects Grid View_
+
+![Project Details](./screenshots/projects-2.png)
+_Project Details Modal_
+
+### Profile Dashboard
+
+![Profile View](./screenshots/profile-1.png)
+_User Profile Overview_
+
+![Profile Edit](./screenshots/profile-2.png)
+_Profile Edit Interface_
+
+### Authentication
+
+![Login Modal](./screenshots/auth-1.png)
+_User Login Interface_
+
+### Responsive Design
+
+<div align="center">
+  <img src="./screenshots/mobile-1.png" alt="Mobile Home" width="300" style="margin-right: 20px"/>
+  <img src="./screenshots/mobile-2.png" alt="Mobile Projects" width="300"/>
+</div>
+*Mobile-Responsive Views*
+
 ## 🚀 Features
 
 - Responsive Design
